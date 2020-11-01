@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Fix Audio Fading
+## Interface: 90001
+## Author: Kab
+## Version: 1.01
+## Notes: Disable Voice Audio Fading
+
+KabFixAudioFading.lua
